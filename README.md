@@ -1,7 +1,6 @@
 <h2 align="center">Hello There! I'm SelaxG 👋</h2>
 
 **Telegram :** [@SelaxG](https://t.me/SelaxG)
-**My Blog :** [@SelaxBlog](https://t.me/SelaxBlog)
 
 **Website :** Don't need it.
 
