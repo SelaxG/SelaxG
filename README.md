@@ -6,12 +6,6 @@
 
 *Hello World.*
 
-
-// # *I started the software in 2016, I first wondered about Python, I learned basics, then I give a break for a long time. After that, I restarted from  the first level of Pyhon again, now I am thinking about to learn **Java**.*
-
-
-
-
 ![Views](https://gpvc.arturio.dev/SelaxG)
 
 
